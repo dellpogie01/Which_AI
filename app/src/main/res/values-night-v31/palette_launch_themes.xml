@@ -1,0 +1,26 @@
+<resources>
+    <style name="Theme.WhichAI.Forest.System" parent="Theme.MyApplication">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.WhichAI.Ocean.System" parent="Theme.MyApplication">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.WhichAI.Royal.System" parent="Theme.MyApplication">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.WhichAI.Earth.System" parent="Theme.MyApplication">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

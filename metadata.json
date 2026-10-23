@@ -1,0 +1,6 @@
+{
+  "name": "Which AI",
+  "description": "Beginner-friendly visual encyclopedia of notable AI models and systems",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
